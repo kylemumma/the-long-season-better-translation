@@ -745,7 +745,7 @@ Easy with him.
 
 142
 00:07:41,600 --> 00:07:43,760
--Biao, do it.
+-Biaozi, do it.
 -All right then.
 -彪子，动手吧
 -那行
@@ -1204,7 +1204,7 @@ Wang Xiang,
 229
 00:11:44,600 --> 00:11:46,920
 this business with Yang'er
-has driven you obsessed.
+has made you obsessed.
 阳儿这事把你给整魔怔了
 
 230
@@ -1482,7 +1482,7 @@ She died in a hospital, in a bed.
 
 283
 00:13:29,960 --> 00:13:31,680
-That's dying of old age.
+That's a peaceful, natural death.
 那叫寿终正寝
 
 284
@@ -1560,7 +1560,7 @@ You...
 
 297
 00:15:25,520 --> 00:15:26,480
-Well, isn't that Sister Xu?
+Well, isn't that Xu-jie?
 这不徐姐吗？
 
 298
@@ -2096,7 +2096,7 @@ Once my racing pigeons hatch,
 
 403
 00:19:55,760 --> 00:19:57,800
-I flip them, and we're sitting on a good 150 grand.
+I flip them, and we're sitting on well over a hundred grand.
 我一倒腾，大十几万就有了
 
 404
@@ -2732,7 +2732,7 @@ and the names and locations of its three openings."
 
 529
 00:28:47,120 --> 00:28:48,440
-What's wrong, ma'am?
+What's wrong, auntie?
 怎么的了，大娘？
 
 530
@@ -2792,7 +2792,7 @@ But next time, it might not just be an arm.
 
 541
 00:29:55,000 --> 00:29:56,640
-Go home with your auntie and heal up.
+Go home with auntie and heal up.
 好好和大娘回去养病
 
 542
@@ -2897,7 +2897,7 @@ Your dad means well too.
 
 562
 00:32:41,440 --> 00:32:44,800
-He's just scared Xing San'er won't let it go and it'll ruin your factory placement.
+He's just scared Xing San won't let it go and it'll ruin your factory placement.
 他不是怕邢三儿不依不饶地 影响你进厂的事吗？
 
 563
@@ -3112,47 +3112,47 @@ I need to go out for a bit.
 
 605
 00:34:24,840 --> 00:34:26,239
-Eat something before you go
+Eat something before you go.
 你吃点东西再走
 
 606
 00:34:26,320 --> 00:34:27,360
-I'm good
+I'm good.
 不吃了
 
 607
 00:34:31,679 --> 00:34:33,719
-Alright, go on then. Back early.
+All right, go on then. Back early.
 行了，那你去，早点回来呀
 
 608
 00:34:35,199 --> 00:34:36,440
-I'm off, Ma
+I'm off, Ma.
 那我去了啊，妈
 
 609
 00:34:37,760 --> 00:34:39,000
-Bye, Ma
+Bye, Ma.
 走了啊，妈
 
 610
 00:34:52,800 --> 00:34:54,639
-Hey—don't go any further in
+Hey—don't go any further in.
 别…别往里走了
 
 611
 00:34:54,719 --> 00:34:56,040
-No late show today
+No late show today.
 今儿没夜场
 
 612
 00:34:56,120 --> 00:34:57,480
-I'm here for Shen Mo
+I'm here for Shen Mo.
 我找沈墨
 
 613
 00:34:58,040 --> 00:34:59,240
-We made plans
+We made plans.
 我们俩约好了
 
 614
@@ -3167,27 +3167,27 @@ You're here this early?
 
 616
 00:35:15,920 --> 00:35:17,160
-We couldn't watch it together last time
+We couldn't watch it together last time.
 上次没能一起看
 
 617
 00:35:17,240 --> 00:35:18,920
-Here's your chance to make up for it
+Here's your chance to make up for it.
 这次给你个机会补上
 
 618
 00:35:23,920 --> 00:35:25,480
-This is Wang Yang
+This is Wang Yang.
 这就是王阳
 
 619
 00:35:27,160 --> 00:35:28,440
-This is Fu Weijun
+This is Fu Weijun.
 这是傅卫军
 
 620
 00:35:29,200 --> 00:35:31,080
-I'll go see if I can get it playing
+I'll go see if I can get it playing.
 那我去试试能不能放
 
 621
@@ -3197,27 +3197,27 @@ Hey buddy, you just met Shen Mo, right?
 
 622
 00:35:52,920 --> 00:35:54,160
-Never heard her mention you either
+Never heard her mention you either.
 我也没听她提过你
 
 623
 00:35:57,280 --> 00:35:58,640
-Hey, I'm talking to you
+Hey, I'm talking to you.
 我跟你说话呢
 
 624
 00:36:00,280 --> 00:36:01,440
-He can't hear you
+He can't hear you.
 他听不见
 
 625
 00:36:02,240 --> 00:36:03,520
-You could've said so
+You could've said so.
 你早说呀
 
 626
 00:36:03,600 --> 00:36:05,080
-Almost swung at him
+Almost swung at him.
 差点就动手了
 
 627
@@ -3227,12 +3227,12 @@ The hell's he mean?
 
 628
 00:36:27,320 --> 00:36:28,960
-My brother says you're a bit slow
+My brother says you're a bit slow.
 我弟说你有点傻
 
 629
 00:37:13,880 --> 00:37:15,120
-Your surname's Shen
+Your surname's Shen.
 妳姓沉
 
 630
@@ -3242,7 +3242,7 @@ So why's your brother a Fu?
 
 631
 00:37:19,000 --> 00:37:20,480
-My brother's a year younger
+My brother's a year younger.
 我弟比我小一岁
 
 632
@@ -3252,27 +3252,27 @@ After my parents died,
 
 633
 00:37:21,880 --> 00:37:23,680
-we went to live with my uncle
+we went to live with my uncle.
 我们俩就去了我大爷家
 
 634
 00:37:23,760 --> 00:37:27,680
-My aunt didn't want him—his ears were bad
+My aunt didn't want him—his ears were bad.
 我大娘嫌他耳朵不好，不想要他
 
 635
 00:37:28,200 --> 00:37:30,600
-So they gave him to a family in Hualin
+So they gave him to a family in Hualin.
 就把他给了桦林的一家人
 
 636
 00:37:30,680 --> 00:37:32,120
-That family named him
+That family named him.
 名字是那家起的
 
 637
 00:37:32,200 --> 00:37:33,600
-He got used to it
+He got used to it.
 他也叫惯了
 
 638
@@ -3282,17 +3282,17 @@ Then that family had a kid of their own
 
 639
 00:37:36,400 --> 00:37:38,120
-so he went to the orphanage
+so he went to the orphanage.
 他就去了福利院
 
 640
 00:37:38,720 --> 00:37:41,400
-I tested into Hualin Med just to see him
+I tested into Hualin Med just to see him.
 我往桦医考也是因为能见着他
 
 641
 00:37:43,240 --> 00:37:45,000
-He's the only family I've got left
+He's the only family I've got left.
 我就他这么一个亲人了
 
 642
@@ -3302,12 +3302,12 @@ Isn't there one more now?
 
 643
 00:38:39,600 --> 00:38:40,640
-Cui Guodong
+Cui Guodong.
 崔国栋
 
 644
 00:38:43,240 --> 00:38:44,400
-Down here
+Down here.
 在下边呢
 
 645
@@ -3317,29 +3317,29 @@ Who found it?
 
 646
 00:38:47,920 --> 00:38:49,160
-The patrol team
+The patrol team.
 联防队的
 
 647
 00:38:49,680 --> 00:38:51,600
-- Right in this drainage ditch
-- Let me
+-Right in this drainage ditch.
+-Let me.
 -就在这斗沟里边
 -我来
 
 648
 00:38:51,680 --> 00:38:52,760
-Easy there
+Easy there.
 你慢点
 
 649
 00:38:53,320 --> 00:38:54,520
-Move, let me see
+Move, let me see.
 躲开我看看
 
 650
 00:38:55,440 --> 00:38:56,800
-Step aside
+Step aside.
 往边上点
 
 651
@@ -3349,17 +3349,17 @@ Didn't you mark some underground drain points?
 
 652
 00:39:00,080 --> 00:39:02,320
-Had the patrol team sweep them for us
+Had the patrol team sweep them for us.
 安排联防队的帮咱们扫了
 
 653
 00:39:03,080 --> 00:39:04,560
-They just got to this spot
+They just got to this spot.
 刚扫到这地方
 
 654
 00:39:05,400 --> 00:39:06,920
-That Wang Xiang, huh
+That Wang Xiang, huh.
 行呀，这王响
 
 655
@@ -3369,17 +3369,17 @@ What is it?
 
 656
 00:39:24,080 --> 00:39:26,080
-This killer's a fucking monster
+This killer's a fucking monster.
 这凶手太他妈没人性了
 
 657
 00:39:34,280 --> 00:39:36,080
-Found a backpack in the pipe too
+Found a backpack in the pipe too.
 管道里还找到一个书包
 
 658
 00:39:36,600 --> 00:39:38,440
-Inside's a meal card from Hualin Med
+Inside's a meal card from Hualin Med.
 包里有一张桦医的饭卡
 
 659
@@ -3394,12 +3394,12 @@ Move along...
 
 661
 00:39:49,680 --> 00:39:50,720
-Stop looking
+Stop looking.
 别看了
 
 662
 00:39:54,040 --> 00:39:55,280
-Search it real careful
+Search it real careful.
 查仔细点呀
 
 663
@@ -3439,7 +3439,7 @@ What kinda crap poem is this?
 
 670
 00:40:54,440 --> 00:40:55,840
-No meter, no rhyme
+No meter, no rhyme.
 不合辙，不押韵的
 
 671
@@ -3449,17 +3449,17 @@ Where'd it go?
 
 672
 00:41:17,720 --> 00:41:18,680
-Good Lord
+Good Lord.
 妈呀
 
 673
 00:41:19,240 --> 00:41:21,200
-This room looks like it got robbed
+This room looks like it got robbed.
 这屋怎么跟进贼了似的呢？
 
 674
 00:41:21,720 --> 00:41:22,800
-Dad
+Dad.
 爸
 
 675
@@ -3469,17 +3469,17 @@ What's this thing doing here?
 
 676
 00:41:24,640 --> 00:41:26,520
-I haven't used it in years
+I haven't used it in years.
 我多少年都不用它了
 
 677
 00:41:28,520 --> 00:41:30,800
-Wore it hiking with Qu Bo a couple days back
+Wore it hiking with Qu Bo a couple days back.
 前两天我跟曲波爬山的时候穿来着
 
 678
 00:41:31,360 --> 00:41:32,280
-This thing beats the cold
+This thing beats the cold.
 这衣服抗冻
 
 679
@@ -3499,12 +3499,12 @@ Where's our old map gone?
 
 682
 00:41:38,360 --> 00:41:40,000
-I remember sticking it in a cookbook
+I remember sticking it in a cookbook.
 我记着夹到一个菜谱里头了
 
 683
 00:41:40,680 --> 00:41:41,800
-It's up here
+It's up here.
 在这上面呢
 
 684
@@ -3524,17 +3524,17 @@ What do you want the map for?
 
 687
 00:41:51,760 --> 00:41:52,840
-The dismemberment case
+The dismemberment case.
 碎尸案的事
 
 688
 00:41:52,920 --> 00:41:55,160
-Helping the police canvass the plant
+Helping the police canvass the plant.
 帮警方在厂里搞搞排查
 
 689
 00:41:55,240 --> 00:41:57,080
-I'm briefing Xing San'er and his bunch
+I'm briefing Xing San and his bunch.
 我给邢三儿他们开个会
 
 690
@@ -3544,7 +3544,7 @@ Wait, you're skipping lunch?
 
 691
 00:41:58,760 --> 00:42:01,200
-This matters more than lunch
+This matters more than lunch.
 这个事比吃饭的事大
 
 692
@@ -3554,27 +3554,27 @@ You never stop, do you?
 
 693
 00:42:14,480 --> 00:42:15,560
-Master Wang
+Master Wang.
 王师傅
 
 694
 00:42:16,080 --> 00:42:18,440
-That train sits any longer, it'll rust shut
+That train sits any longer, it'll rust shut.
 火车再不开，都要上锈了吧
 
 695
 00:42:19,400 --> 00:42:20,520
-Relax
+Relax.
 放心吧
 
 696
 00:42:21,360 --> 00:42:23,960
-With me around, not even a lug nut rusts
+With me around, not even a lug nut rusts.
 有我在，螺丝帽都上不了锈
 
 697
 00:42:24,040 --> 00:42:25,400
-It'll outlive you
+It'll outlive you.
 你活不过它
 
 698
@@ -3589,12 +3589,12 @@ New post, Master Wang?
 
 700
 00:42:33,840 --> 00:42:35,680
-Been given other duties lately
+Been given other duties lately.
 最近抓点别的工作
 
 701
 00:42:35,760 --> 00:42:37,120
-Giving Security some training
+Giving Security some training.
 给保卫科上上课
 
 702
@@ -3604,7 +3604,7 @@ You? Training them?
 
 703
 00:42:39,400 --> 00:42:41,560
-Gotta lecture your workshop sometime too
+Gotta lecture your workshop sometime too.
 什么时候给你们车间也上上课
 
 704
@@ -3619,22 +3619,22 @@ The title:
 
 706
 00:43:12,600 --> 00:43:14,240
-No manners at all
+No manners at all.
 什么素质这？
 
 707
 00:43:17,920 --> 00:43:19,080
-Master Wang
+Master Wang.
 王师傅
 
 708
 00:43:19,960 --> 00:43:20,920
-Don't go
+Don't go.
 别走啊
 
 709
 00:43:21,000 --> 00:43:22,560
-The meeting hasn't started
+The meeting hasn't started.
 这会还没开呢
 
 710
@@ -3649,17 +3649,17 @@ Meeting's at one. Where's Security?
 
 712
 00:43:28,360 --> 00:43:29,240
-Master Wang
+Master Wang.
 王师傅
 
 713
 00:43:29,320 --> 00:43:30,960
-Thing is, Captain Ma just called me
+Thing is, Captain Ma just called me.
 这不我刚才接到马队长电话了吗？
 
 714
 00:43:31,520 --> 00:43:33,920
-Says the plant sweep's gotta be us two teamed up
+Says the plant sweep's gotta be us two teamed up.
 说咱们厂的摸排还得是咱俩配合
 
 715
@@ -3669,12 +3669,12 @@ The moment I heard that,
 
 716
 00:43:35,960 --> 00:43:37,120
-I felt solid
+I felt solid.
 心里有底了
 
 717
 00:43:37,200 --> 00:43:38,720
-Cut the crap
+Cut the crap.
 别整用不着的
 
 718
@@ -3684,7 +3684,7 @@ About our internal sweep,
 
 719
 00:43:40,480 --> 00:43:41,800
-here's my thinking
+here's my thinking.
 我是这么考虑的
 
 720
@@ -3694,12 +3694,12 @@ Master Wang,
 
 721
 00:43:43,600 --> 00:43:45,320
-here's where things stand
+here's where things stand.
 现在有这么个情况
 
 722
 00:43:47,800 --> 00:43:50,640
-We've picked up a bit of his trail
+We've picked up a bit of his trail.
 我们现在已经摸着他一点边了
 
 723
@@ -3709,12 +3709,12 @@ Who?
 
 724
 00:43:54,720 --> 00:43:56,240
-Don't know who he is yet
+Don't know who he is yet.
 还不知道他是谁
 
 725
 00:43:56,320 --> 00:43:59,280
-But looks like the killer did show his face in our plant
+But looks like the killer did show his face in our plant.
 但凶手好像还真在咱们厂里冒过头
 
 726
@@ -3724,7 +3724,7 @@ Why's Security empty?
 
 727
 00:44:14,560 --> 00:44:16,200
-All out manning the net
+All out manning the net.
 都去布控去了
 
 728
@@ -3734,7 +3734,7 @@ The net?
 
 729
 00:44:17,880 --> 00:44:18,800
-That's right
+That's right.
 对了
 
 730
@@ -3744,7 +3744,7 @@ Well? Find anything?
 
 731
 00:44:27,000 --> 00:44:28,200
-Nothing
+Nothing.
 没发现
 
 732
@@ -3759,7 +3759,7 @@ tell Master Wang
 
 734
 00:44:31,080 --> 00:44:32,600
-everything you saw that night
+everything you saw that night.
 你那天晚上都看着啥了
 
 735
@@ -3769,12 +3769,12 @@ So, that night,
 
 736
 00:44:36,280 --> 00:44:37,440
-I'd just come off shift
+I'd just come off shift.
 我刚交完班
 
 737
 00:44:38,360 --> 00:44:40,600
-Carrying my stuff, figuring I'd hit the baths
+Carrying my stuff, figuring I'd hit the baths.
 我拎着东西，我寻思去搓个澡呢
 
 738
@@ -3794,7 +3794,7 @@ when all of a sudden
 
 741
 00:44:48,040 --> 00:44:49,920
-I hear a noise
+I hear a noise.
 我就听着点啥动静
 
 742
@@ -3804,17 +3804,17 @@ What noise?
 
 743
 00:44:53,040 --> 00:44:56,200
-When I stop, it stops
+When I stop, it stops.
 就是我一停，他就没声了
 
 744
 00:44:56,680 --> 00:44:58,360
-When I walk, it walks too
+When I walk, it walks too.
 我一走，他也跟着走
 
 745
 00:44:59,760 --> 00:45:02,320
-So I look up along the furnace
+So I look up along the furnace.
 我就顺那炉子，我就往那一看
 
 746
@@ -3829,7 +3829,7 @@ There's a guy in a protective suit
 
 748
 00:45:06,320 --> 00:45:07,520
-standing on top of the furnace
+standing on top of the furnace.
 在炉子上面站着呢
 
 749
@@ -3839,7 +3839,7 @@ He turns around—
 
 750
 00:45:10,400 --> 00:45:11,720
-the face is blank
+the face is blank.
 脸是空的
 
 751
@@ -3849,17 +3849,17 @@ Blank face?
 
 752
 00:45:16,440 --> 00:45:17,320
-Bullshit
+Bullshit.
 瞎扯呢
 
 753
 00:45:17,400 --> 00:45:20,080
-If I'm lying, I'm a bastard
+If I'm lying, I'm a bastard.
 我要撒一句谎，我是这个
 
 754
 00:45:20,920 --> 00:45:22,800
-Wait—you couldn't see his face at all
+Wait—you couldn't see his face at all.
 不是，你五官啥都看不见
 
 755
@@ -3869,14 +3869,14 @@ So how do you figure he's the killer?
 
 756
 00:45:24,840 --> 00:45:27,080
-- Well, it's...
-- Yeah, based on what?
+-Well, it's...
+-Yeah, based on what?
 -那不是…
 -根据啥吧
 
 757
 00:45:27,160 --> 00:45:28,240
-Think about it
+Think about it.
 你想呀
 
 758
@@ -3891,7 +3891,7 @@ you telling me he ain't evil?
 
 760
 00:45:32,120 --> 00:45:34,120
-There's a killing aura on his head
+There's a killing aura on his head.
 那脑瓜顶都带煞气呀
 
 761
@@ -3916,22 +3916,22 @@ This is pointless. You two, beat it.
 
 765
 00:45:47,160 --> 00:45:49,160
-Wang Xiang, listen to me
+Wang Xiang, listen to me.
 王响，我跟你讲
 
 766
 00:45:49,680 --> 00:45:51,200
-He came once
+He came once.
 这人能来第一回
 
 767
 00:45:51,280 --> 00:45:53,320
-No guarantee he won't come twice
+No guarantee he won't come twice.
 他就保不齐还能来第二回
 
 768
 00:45:54,120 --> 00:45:56,320
-I've thrown all of Security out there
+I've thrown all of Security out there.
 我把保卫科的人都给派出去了
 
 769
@@ -3946,7 +3946,7 @@ every main road—
 
 771
 00:45:59,480 --> 00:46:01,200
-if it can be covered, I've covered it
+if it can be covered, I've covered it.
 能布的我都给它布上
 
 772
@@ -3956,7 +3956,7 @@ Male, under 180 cm,
 
 773
 00:46:03,400 --> 00:46:05,160
-killing aura on his head
+killing aura on his head.
 脑袋顶上带煞气
 
 774
@@ -3966,12 +3966,12 @@ Under 180 cm, male,
 
 775
 00:46:07,440 --> 00:46:08,760
-aura on the head
+aura on the head.
 脑袋有煞气
 
 776
 00:46:08,840 --> 00:46:11,320
-This plant's got 800 of those, easy
+This plant's got 800 of those, easy.
 我们厂没一千，有八百
 
 777
@@ -3981,22 +3981,22 @@ People can barely eat—who ain't got an aura?
 
 778
 00:46:16,520 --> 00:46:19,520
-Wang Xiang, you're an old-timer of this plant
+Wang Xiang, you're an old-timer of this plant.
 王响，你是咱厂的老同志
 
 779
 00:46:19,600 --> 00:46:21,240
-Show a little awareness
+Show a little awareness.
 你得有点觉悟呀
 
 780
 00:46:21,320 --> 00:46:25,160
-The smelting shop is the prime spot he was seen
+The smelting shop is the prime spot he was seen.
 冶炼车间 可是看着那个人的第一案发现场
 
 781
 00:46:25,240 --> 00:46:27,080
-I'm saving it for you
+I'm saving it for you.
 我把它留给你了
 
 782
@@ -4006,7 +4006,7 @@ Why not report straight to Captain Ma?
 
 783
 00:46:30,080 --> 00:46:31,720
-It's just your word, no proof
+It's just your word, no proof.
 你口说无凭吧
 
 784
@@ -4016,8 +4016,8 @@ So? You staking this spot or not?
 
 785
 00:46:33,440 --> 00:46:35,000
-- You won't, I hand it to someone else
-- What?
+-You won't, I hand it to someone else.
+-What?
 -你不蹲，我现在交给别人
 -什么？
 
@@ -4033,13 +4033,13 @@ But what would the killer want at the smelting shop?
 
 788
 00:46:44,480 --> 00:46:46,920
-Catch him and ask him yourself
+Catch him and ask him yourself.
 一会你抓着他了，你自己问他
 
 789
 00:46:48,720 --> 00:46:50,520
-- What's this?
-- What? A whistle.
+-What's this?
+-What? A whistle.
 -啥呀？
 -啥？ 哨啊
 
@@ -4050,27 +4050,27 @@ What for?
 
 791
 00:46:51,800 --> 00:46:53,640
-Blow it the second you spot something
+Blow it the second you spot something.
 吹吧，一会你发现有啥情况了
 
 792
 00:46:53,720 --> 00:46:55,240
-Backup swarms in from all directions
+Backup swarms in from all directions.
 这四面八方增援呀
 
 793
 00:46:55,320 --> 00:46:56,200
-Here
+Here.
 拿着
 
 794
 00:46:56,680 --> 00:46:57,840
-You take a two-hour watch
+You take a two-hour watch.
 你蹲俩点
 
 795
 00:46:57,920 --> 00:46:58,840
-I'll come relieve you
+I'll come relieve you.
 我过来换你
 
 796
@@ -4085,36 +4085,36 @@ You?
 
 798
 00:47:49,360 --> 00:47:51,040
-Ten to ace, pair of sevens
+Ten to ace, pair of sevens.
 十到A，俩七
 
 799
 00:47:51,120 --> 00:47:52,360
-Lemme see your hand
+Lemme see your hand.
 我看你牌
 
 800
 00:47:52,440 --> 00:47:54,120
-- Damn
-- You're short a pair of twos
+-Damn.
+-You're short a pair of twos.
 -我去
 -你这差俩二
 
 801
 00:47:54,200 --> 00:47:56,120
-You play like absolute garbage
+You play like absolute garbage.
 你这牌打得稀烂稀烂的
 
 802
 00:47:56,200 --> 00:47:57,960
-- Again... deal
-- Come on... Chief Xing
+-Again... deal.
+-Come on... Chief Xing.
 -来…再来
 -来…邢科
 
 803
 00:48:00,720 --> 00:48:02,480
-There's still a guy in the smelting shop
+There's still a guy in the smelting shop.
 熔链车间里还有个人呢
 
 804
@@ -4124,7 +4124,7 @@ What? You wanna cover his shift?
 
 805
 00:48:04,920 --> 00:48:06,160
-Not a chance
+Not a chance.
 我可不去
 
 806
@@ -4134,12 +4134,12 @@ He dreams of earning glory, don't he?
 
 807
 00:48:08,480 --> 00:48:09,520
-Let him snap out of it
+Let him snap out of it.
 让他清醒清醒
 
 808
 00:48:10,080 --> 00:48:12,840
-A lousy driver reaching into my Security Section
+A lousy driver reaching into my Security Section.
 你一个臭开车的 你把手伸我保卫科来
 
 809
@@ -4159,24 +4159,24 @@ I'm fucking laying it down here:
 
 812
 00:48:18,680 --> 00:48:21,080
-inside Hualin Steel, none of it flies
+inside Hualin Steel, none of it flies.
 只要是在桦钢，不管用
 
 813
 00:48:21,160 --> 00:48:22,920
-- Third Brother's the man...
-- Exactly
+-Third Brother's the man...
+-Exactly.
 -三哥厉害…
 -就是
 
 814
 00:48:23,000 --> 00:48:24,000
-Damn right
+Damn right.
 就是
 
 815
 00:48:24,760 --> 00:48:25,760
-Chief Xing
+Chief Xing.
 邢科
 
 816
@@ -4196,22 +4196,22 @@ He's playing a cute little game
 
 819
 00:48:34,840 --> 00:48:36,440
-thinks this'll be his big comeback
+thinks this'll be his big comeback.
 还想靠这个翻身呢
 
 820
 00:48:39,440 --> 00:48:40,520
-Liru
+Liru.
 丽茹
 
 821
 00:48:41,480 --> 00:48:42,560
-Liru
+Liru.
 丽茹
 
 822
 00:48:44,000 --> 00:48:44,840
-Here
+Here.
 来
 
 823
@@ -4221,7 +4221,7 @@ What took you so long?
 
 824
 00:48:49,240 --> 00:48:50,920
-I rushed over from your hospital
+I rushed over from your hospital.
 我从妳医院那赶过来的
 
 825
@@ -4231,32 +4231,32 @@ My hospital? We said we'd meet here.
 
 826
 00:48:53,440 --> 00:48:55,480
-Something came up at the plant office
+Something came up at the plant office.
 厂办有点突发状况
 
 827
 00:48:56,080 --> 00:48:59,040
-Old Zhao—Director Zhao—got jumped by two workers in the canteen
+Old Zhao—Director Zhao—got jumped by two workers in the canteen.
 那老赵赵主任 让俩工人堵食堂里一顿揍
 
 828
 00:48:59,600 --> 00:49:01,080
-Blood spraying everywhere
+Blood spraying everywhere.
 那血哗哗往外滋
 
 829
 00:49:01,160 --> 00:49:02,800
-I was out the door and they called me back
+I was out the door and they called me back.
 我都出来了，又给我叫回去了
 
 830
 00:49:02,880 --> 00:49:04,760
-Those office guys can't handle shit
+Those office guys can't handle shit.
 就厂办那几个也不扛事呀
 
 831
 00:49:05,240 --> 00:49:07,280
-I don't go back, it all falls apart
+I don't go back, it all falls apart.
 那我不回去，控制不了局面
 
 832
@@ -4266,7 +4266,7 @@ I'm off work. Spare me the plant talk.
 
 833
 00:49:12,000 --> 00:49:14,000
-Sorry—kept you waiting till you starved
+Sorry—kept you waiting till you starved.
 不好意思呀，让妳等饿了
 
 834
@@ -4291,7 +4291,7 @@ A love story. Real romantic.
 
 838
 00:49:22,640 --> 00:49:24,800
-Hang on, let me park my bike
+Hang on, let me park my bike.
 妳等我一下，我停个车呀
 
 839
@@ -4301,7 +4301,7 @@ Where'd you get that roast sweet potato?
 
 840
 00:49:31,360 --> 00:49:32,680
-Get me one too
+Get me one too.
 也帮我买一个吧
 
 841
@@ -4311,17 +4311,17 @@ Some pick...
 
 842
 00:49:51,000 --> 00:49:53,720
-Never knew romance could be like this
+Never knew romance could be like this.
 没想到这么搞对象呀
 
 843
 00:49:54,560 --> 00:49:57,960
-From the title, I figured Yu Dafu, Lin Huiyin, that stuff
+From the title, I figured Yu Dafu, Lin Huiyin, that stuff.
 看片名我以为讲郁达夫、林徽因啥的
 
 844
 00:49:59,160 --> 00:50:00,800
-It's pretty romantic, actually
+It's pretty romantic, actually.
 这片挺浪漫的
 
 845
@@ -4331,7 +4331,7 @@ Just a bit shaky. Making me dizzy.
 
 846
 00:50:06,680 --> 00:50:09,560
-That actor kinda looks like you
+That actor kinda looks like you.
 我瞅这男演员长的跟你还有点像呢
 
 847
@@ -4341,7 +4341,7 @@ Oh yeah?
 
 848
 00:50:13,400 --> 00:50:15,600
-People used to say I belonged in the movies
+People used to say I belonged in the movies.
 以前他们老说我适合拍电影
 
 849
@@ -4351,7 +4351,7 @@ Then I went all-in on academics. Missed the boat.
 
 850
 00:50:24,400 --> 00:50:27,200
-Did your brother-in-law tell you my basics?
+Did my brother-in-law tell you my basics?
 姐夫跟妳說我的基本情况了吗？
 
 851
@@ -4361,17 +4361,17 @@ Who?
 
 852
 00:50:31,000 --> 00:50:32,240
-Master Wang
+Master Wang.
 王师傅
 
 853
 00:50:36,920 --> 00:50:38,800
-He... didn't really say much
+He... didn't really say much.
 也…也没怎么说
 
 854
 00:50:44,400 --> 00:50:45,880
-Well, here's the deal
+Well, here's the deal.
 是这么个情况
 
 855
@@ -4381,12 +4381,12 @@ Career first, then family, right?
 
 856
 00:50:51,080 --> 00:50:55,440
-I'm right in the rising phase of my career
+I'm right in the rising phase of my career.
 我现在就是正好处在事业的上升期
 
 857
 00:50:56,080 --> 00:50:58,920
-Plant office, after Director Zhao, it's me
+Plant office, after Director Zhao, it's me.
 那厂办除了赵主任，也就我了
 
 858
@@ -4421,12 +4421,12 @@ On the work front,
 
 864
 00:51:24,120 --> 00:51:26,640
-I've basically left everyone in the dust
+I've basically left everyone in the dust.
 我基本上已经做到一骑绝尘了
 
 865
 00:51:27,440 --> 00:51:29,760
-All that's left is love
+All that's left is love.
 现在就差爱人了
 
 866
@@ -4436,12 +4436,12 @@ Who's Freud?
 
 867
 00:51:32,880 --> 00:51:34,360
-A scholar
+A scholar.
 一个学者
 
 868
 00:51:34,440 --> 00:51:36,280
-Studies dreams, mostly
+Studies dreams, mostly.
 主要研究作梦的
 
 869
@@ -4461,12 +4461,12 @@ Did you get one?
 
 872
 00:51:43,280 --> 00:51:44,360
-Any day now
+Any day now.
 指日可待了
 
 873
 00:51:46,080 --> 00:51:49,600
-Old Zhao and I have explored the matter in depth
+Old Zhao and I have explored the matter in depth.
 我和老赵为这事已经深入地探讨过了
 
 874
@@ -4476,7 +4476,7 @@ You see,
 
 875
 00:51:52,200 --> 00:51:54,560
-Director Song values talent
+Director Song values talent.
 宋厂长那人爱才
 
 876
@@ -4486,12 +4486,12 @@ With my work ability,
 
 877
 00:51:56,400 --> 00:51:58,520
-the next round's no problem
+the next round's no problem.
 赶上下一拨问题不大
 
 878
 00:52:06,800 --> 00:52:07,800
-Liru
+Liru.
 丽茹
 
 879
@@ -4506,12 +4506,12 @@ what's your type?
 
 881
 00:52:16,400 --> 00:52:18,360
-I like the mature type
+I like the mature type.
 我喜欢成熟型的
 
 882
 00:52:18,440 --> 00:52:20,080
-Then I've got a huge edge
+Then I've got a huge edge.
 那这一点我太有优势了
 
 883
@@ -4521,7 +4521,7 @@ What edge?
 
 884
 00:52:24,920 --> 00:52:27,440
-People say I look a bit old for my age
+People say I look a bit old for my age.
 他们都说我多少有点显老
 
 885
@@ -4531,7 +4531,7 @@ Watch the movie. Stop squirming.
 
 886
 00:52:36,640 --> 00:52:37,840
-Your hair
+Your hair.
 妳头发
 
 887
@@ -4541,22 +4541,22 @@ What's so good about it?
 
 888
 00:52:43,320 --> 00:52:45,840
-Two grown men rolling around up there
+Two grown men rolling around up there.
 俩大老爷们在上面动来动去的
 
 889
 00:52:51,000 --> 00:52:52,200
-Liru
+Liru.
 丽茹
 
 890
 00:52:52,280 --> 00:52:54,080
-Wait up—I'll see you home
+Wait up—I'll see you home.
 妳等我一下，我送妳呀
 
 891
 00:53:01,080 --> 00:53:02,360
-Hop on
+Hop on.
 上车
 
 892
@@ -4566,7 +4566,7 @@ Aren't you heading back to the workers' dorm?
 
 893
 00:53:03,880 --> 00:53:05,080
-It's not on your way
+It's not on your way.
 咱俩不顺路
 
 894
@@ -4576,7 +4576,7 @@ Isn't the earth round?
 
 895
 00:53:07,040 --> 00:53:09,240
-Off-route or not, a few extra steps gets me there
+Off-route or not, a few extra steps gets me there.
 再不顺路，多走两步也到了
 
 896
@@ -4586,7 +4586,7 @@ Really, no need. Thanks.
 
 897
 00:53:12,120 --> 00:53:14,000
-Let's pick another movie sometime
+Let's pick another movie sometime.
 哪天咱再选个片看吧
 
 898
@@ -4606,7 +4606,7 @@ Sweet potato man—did you see who?
 
 901
 00:54:20,120 --> 00:54:21,200
-Master Wang
+Master Wang.
 王师傅
 
 902
@@ -4616,12 +4616,12 @@ Master Wang, you hungry?
 
 903
 00:54:32,960 --> 00:54:35,640
-Let's go find a spot to eat
+Let's go find a spot to eat.
 咱俩出去找个地方吃点啊
 
 904
 00:54:38,000 --> 00:54:39,280
-Stand up first
+Stand up first.
 你先站起来
 
 905
@@ -4631,7 +4631,7 @@ What's wrong?
 
 906
 00:54:45,920 --> 00:54:46,800
-Turn around
+Turn around.
 转一圈
 
 907
@@ -5527,7 +5527,7 @@ just to pick up our son, right?
 
 1084
 01:06:25,160 --> 01:06:27,120
-So where did you take him?
+So where is he then?
 你给我接哪去了？
 
 1085
@@ -5892,7 +5892,7 @@ So we suspect this may not be a simple economic case.
 
 1157
 01:10:29,840 --> 01:10:32,080
-Are you across this, Ma Desheng?
+Are you on top of this, Ma Desheng?
 这情况你掌握不，马德胜？
 
 1158
@@ -6122,7 +6122,7 @@ He did take some heat off me.
 
 1203
 01:12:26,680 --> 01:12:28,200
-Alright, I'm off.
+All right, I'm off.
 行了，走了啊
 
 1204
