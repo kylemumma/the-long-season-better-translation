@@ -37,3 +37,7 @@ Timestamps are synced to the official YouTube upload of the episode: the first l
 ## Scope
 
 Currently covers **Season 1, Episode 7** only.
+
+## License
+
+Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (Creative Commons Attribution 4.0 International) — free to share and adapt with attribution. See [LICENSE](LICENSE).
