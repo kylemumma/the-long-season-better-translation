@@ -4,6 +4,13 @@ Improved English subtitles for **The Long Season (漫长的季节, 2023)** — S
 
 《漫长的季节》第一季第7-8集精校英文字幕。
 
+## How to use
+The easist way to use this is
+1. Download the `.srt` file you want (English, Chinese, or bilingual).
+2. Add my *free & open source* chrome extension to use the subtitles on youtube: [Chrome Web Store](https://chromewebstore.google.com/detail/lmobhiaghhlkdnlkkmcecahnbifbpmjn?utm_source=item-share-cb) [Github](https://github.com/kylemumma/yt-custom-cc)
+
+(See below for other ways to use)
+
 ## What this is
 
 *The Long Season* is widely considered one of the best Chinese TV dramas ever made, but the English subtitles on the official YouTube upload are poor — stiff, often inaccurate, and they miss the Northeastern dialect, wordplay, and kinship terms that carry much of the show's humor and plot. For this episode in particular, they aren't good enough to actually follow what's happening.
@@ -28,7 +35,7 @@ Each episode comes in three versions:
 
 Available episodes: **E07**, **E08**.
 
-## How to use
+## Other ways to use
 
 1. Download the `.srt` file you want (English, Chinese, or bilingual).
 2. Play the episode in a video player that supports external subtitles — [IINA](https://iina.io) (macOS), [VLC](https://www.videolan.org), or [mpv](https://mpv.io) — and drag the `.srt` onto the window, or give it the same base name as your video file so it loads automatically.
