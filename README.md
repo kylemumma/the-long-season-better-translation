@@ -10,9 +10,9 @@ Improved English subtitles for **The Long Season (漫长的季节, 2023)** — S
 
 This repo contains a corrected English translation, written line by line against the original Chinese dialogue, with:
 
-- Mistranslations fixed (idioms, kinship/relationship terms, plot-relevant nuances)
-- Consistent romanization of character names and forms of address (Xing San, Biaozi, Xu-jie, Captain Ma…)
-- Normalized punctuation and dialogue formatting throughout
+- **Mistranslations fixed** (idioms, kinship/relationship terms, plot-relevant nuances)
+- **Consistent romanization of character names** and forms of address (Xing San, Biaozi, Xu-jie, Captain Ma…)
+- **Normalized punctuation and dialogue** formatting throughout
 
 官方 YouTube 频道的英文字幕质量不佳，不足以看懂本集剧情。本字幕逐句对照中文台词校对，修正了误译、称谓错误和人名不一致等问题。
 
