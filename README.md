@@ -1,15 +1,24 @@
-# 漫长的季节 The Long Season — 改进版英文翻译 · Improved English Translations
+# The Long Season - Improved English Translations 漫长的季节 改进版英文翻译
 
 Improved English subtitles for **The Long Season (漫长的季节, 2023)** — Season 1, Episodes 7–9.
-
 《漫长的季节》第一季第7-8集精校英文字幕。
 
 ## How to use
 The easist way to use this is
-1. Download the `.srt` file you want (English, Chinese, or bilingual).
-2. Add my *free & open source* chrome extension to use the subtitles on youtube: [Chrome Web Store](https://chromewebstore.google.com/detail/lmobhiaghhlkdnlkkmcecahnbifbpmjn?utm_source=item-share-cb) [Github](https://github.com/kylemumma/yt-custom-cc)
+1. Download the `.srt` (subtitle) file you want (English, Chinese, or bilingual).
+2. Add a chrome extension to use custom subtitles on youtube: like [the one I made](https://chromewebstore.google.com/detail/lmobhiaghhlkdnlkkmcecahnbifbpmjn?utm_source=item-share-cb), or another such as **Substital**
 
-(See below for other ways to use)
+Don't want to add an extension? You can also play the episode in a video player that supports external subtitles — [IINA](https://iina.io) (macOS), [VLC](https://www.videolan.org), or [mpv](https://mpv.io) — and drag the `.srt` onto the window.
+
+## Files
+
+Each episode comes in three versions:
+
+| File | Contents |
+|---|---|
+| `The.Long.Season.S01EXX.en.srt` | English only (the improved translation) |
+| `The.Long.Season.S01EXX.ch.srt` | Chinese only (原中文字幕) |
+| `The.Long.Season.S01EXX.en+ch.srt` | Bilingual: English on top, Chinese below — great for learners |
 
 ## What this is
 
@@ -23,21 +32,6 @@ This repo contains a corrected English translation, written line by line against
 
 官方 YouTube 频道的英文字幕质量不佳，不足以看懂本集剧情。本字幕逐句对照中文台词校对，修正了误译、称谓错误和人名不一致等问题。
 
-## Files
-
-Each episode comes in three versions:
-
-| File | Contents |
-|---|---|
-| `The.Long.Season.S01EXX.en.srt` | English only (the improved translation) |
-| `The.Long.Season.S01EXX.ch.srt` | Chinese only (原中文字幕) |
-| `The.Long.Season.S01EXX.en+ch.srt` | Bilingual: English on top, Chinese below — great for learners |
-
-## Other ways to use
-
-1. Download the `.srt` file you want (English, Chinese, or bilingual).
-2. Play the episode in a video player that supports external subtitles — [IINA](https://iina.io) (macOS), [VLC](https://www.videolan.org), or [mpv](https://mpv.io) — and drag the `.srt` onto the window, or give it the same base name as your video file so it loads automatically.
-3. Watching on YouTube itself? YouTube's player can't load external `.srt` files — use a browser extension such as **Substital** to overlay the subtitles, or play a local copy of the episode instead.
 
 ## License
 
