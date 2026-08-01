@@ -1,7 +1,7 @@
 # The Long Season - Improved English Translations 漫长的季节 改进版英文翻译
 
-Improved English subtitles for **The Long Season (漫长的季节, 2023)** — Season 1, Episodes 7–9.
-《漫长的季节》第一季第7-8集精校英文字幕。
+Improved English subtitles for **The Long Season (漫长的季节, 2023)** — Season 1, Episodes 7–11.
+《漫长的季节》第一季第7-11集精校英文字幕。
 
 ## How to use
 The easist way to use this is
